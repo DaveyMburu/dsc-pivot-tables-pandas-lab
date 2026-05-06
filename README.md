@@ -1,4 +1,5 @@
-# Pivot Tables with Pandas - Lab
+# Pivot Tables with Pandas - Lab 
+### Check the index.ipynb file for my working code, and the README.md file for the instructions.
 
 ## Introduction
 
